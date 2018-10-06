@@ -6,7 +6,7 @@
 ### ## - challenges overcome ###
 
   - Used Reactjs as javascript lib
-  - Used Redux as pattern o padrão mv * se possível
+  - Used Redux as pattern o padrão mv * 
   - Used Less as CSS preprocessor
   - Used grund to automatize tasks an organize my code
 
@@ -17,7 +17,7 @@ Assuming that you have nodejs and npm installed.
 
 1 - Clone the repository
 ```
-$ git clone git@gitlab.com:leolima_str/iliked.git
+$ git clone git@github.com:leolima/test-front.git
 ``` 
 2 - go to project folder 
 
