@@ -5,10 +5,10 @@
  
 ### ## - challenges overcome ###
 
-  - Used Reactjs as javascript lib
-  - Used Redux as pattern o padrão mv * 
-  - Used Less as CSS preprocessor
-  - Used grund to automatize tasks an organize my code
+1 - Used Reactjs as javascript lib
+2 - Used Redux as pattern o padrão mv * 
+3 - Used Less as CSS preprocessor
+4 - Used grund to automatize tasks an organize my code
 
 ### ## - Instructions ### 
 
@@ -17,7 +17,7 @@ Assuming that you have nodejs and npm installed.
 
 1 - Clone the repository
 ```
-$ git clone git@github.com:leolima/test-front.git
+$ git clone repository
 ``` 
 2 - go to project folder 
 
