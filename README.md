@@ -1,4 +1,4 @@
-# Frontend Engineer Challenge #
+# Frontend Engineer Challenge - Beleza na Web #
 
 ### The Demo: https://shop-bela.herokuapp.com/
 
@@ -6,8 +6,11 @@
 ### ## - challenges overcome ###
 
 1 - Used Reactjs as javascript lib
+
 2 - Used Redux as pattern o padrão mv * 
+
 3 - Used Less as CSS preprocessor
+
 4 - Used grund to automatize tasks an organize my code
 
 ### ## - Instructions ### 
